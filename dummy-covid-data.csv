@@ -1,9 +1,9 @@
-group,variable,value
-Monday,Week 1, 30
-Monday,Week 2, 95
-Monday,Week 3, 22
-Monday,Week 4, 14
-Monday,Week 5, 59
+days,week, total_vaccinated
+Monday, Week 1, 30
+Monday, Week 2, 95
+Monday, Week 3, 22
+Monday, Week 4, 14
+Monday, Week 5, 59
 Tuesday, Week 1, 37
 Tuesday, Week 2, 50
 Tuesday, Week 3, 81
